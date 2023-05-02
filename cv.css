@@ -86,3 +86,11 @@ i {
     letter-spacing: 20px;
     word-spacing: 25px;
 }
+
+form {
+    padding: 20px;
+    margin: 20px;
+    font-family: avenir;
+    font-size: 28px;
+    word-spacing: 15px;
+}
